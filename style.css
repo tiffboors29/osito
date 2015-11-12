@@ -24,8 +24,6 @@ html, body {
 {
     display: table-cell;
     vertical-align: middle;
-    padding-left: 10px !important;
-    padding-right: 10px !important;
 }
 @media screen and (max-width: 600px){
 	.banner{
@@ -39,6 +37,10 @@ html, body {
   	background-repeat: no-repeat;
   	background-size: cover;
   	min-width: 360px;
+  }
+  .banner-text {
+    padding-left: 10px !important;
+    padding-right: 20px !important;
   }
 }
 .arrow
