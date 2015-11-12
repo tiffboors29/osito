@@ -64,7 +64,9 @@ html, body {
   	min-width: 360px;
   }
   .pstyle {
-    padding-left: 10px !important;
+    padding-right: 20px !important;
+  }
+  .tablebox {
     padding-right: 20px !important;
   }
 }
