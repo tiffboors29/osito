@@ -39,8 +39,8 @@ html, body {
   	min-width: 360px;
   }
   .pstyle {
-    /*padding-left: 10px !important;*/
-    margin-right: 20px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
   }
 }
 .arrow
