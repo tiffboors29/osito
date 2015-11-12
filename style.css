@@ -38,12 +38,6 @@ html, body {
   	background-size: cover;
   	min-width: 360px;
   }
-  .banner-text{
-    display: table-cell;
-    vertical-align: middle;
-    padding-right: 5px;
-    padding-right: 5px;
-  }
 }
 .arrow
 {
@@ -106,7 +100,8 @@ html, body {
 .tablebox
 {
 	display: table;
-	width: 100%;
+	width: 90%;
+  margin: 0 auto;
 }
 .hostyle
 {
