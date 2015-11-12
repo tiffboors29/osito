@@ -5,7 +5,6 @@ $(window).load(function(){
   $('#showAll').addClass('active');
 });
 
-
 $('#showAll').on('click', function(){
   $('#showRepair').removeClass('active');
   $('#showPaint').removeClass('active');
@@ -38,7 +37,6 @@ $('#subscribe').on('click', function(){
   }
 });
 
-
 $('.myform').submit(function (e) {
   var $this = $(this);
   $.ajax({
@@ -52,5 +50,3 @@ $('.myform').submit(function (e) {
       console.log("Response data:", data);
     });
 });
-
-
