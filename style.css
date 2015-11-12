@@ -42,6 +42,9 @@ html, body {
     padding-left: 10px !important;
     padding-right: 10px !important;
   }
+  .tablebox {
+    margin-right: 5px !important;
+  }
 }
 .arrow
 {
