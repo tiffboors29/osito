@@ -20,6 +20,11 @@ html, body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.banner-text
+{
+    display: table-cell;
+    vertical-align: middle;
+}
 @media screen and (max-width: 600px){
 	.banner{
 		/*background-image: -webkit-linear-gradient(left, rgba(11,17,40,0.1) 50%, rgba(11,17,40,0.1) 50%),
@@ -33,11 +38,12 @@ html, body {
   	background-size: cover;
   	min-width: 360px;
   }
-}
-.banner-text
-{
+  .banner-text{
     display: table-cell;
     vertical-align: middle;
+    padding-right: 5px;
+    padding-right: 5px;
+  }
 }
 .arrow
 {
