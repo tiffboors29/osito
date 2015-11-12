@@ -65,10 +65,7 @@ html, body {
   }
   .pstyle {
     padding-left: 10px !important;
-    padding-right: 10px !important;
-  }
-  .center-header {
-    margin-left: -10px !important;
+    padding-right: 20px !important;
   }
 }
 .arrow
