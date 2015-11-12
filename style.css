@@ -100,8 +100,7 @@ html, body {
 .tablebox
 {
 	display: table;
-	width: 90%;
-  margin: 0 auto;
+	width: 100%;
 }
 .hostyle
 {
@@ -120,7 +119,7 @@ html, body {
 	font-size: 13px;
 	letter-spacing: 2px;
 	/*padding: 0px !important;*/
-	padding: 10px 0 0 0 !important;
+	padding: 10px 0 0 10px !important;
 }
 .banner-text h2
 {
