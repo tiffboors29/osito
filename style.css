@@ -63,10 +63,10 @@ html, body {
   	background-size: cover;
   	min-width: 360px;
   }
-  .pstyle {
-    padding-right: 20px !important;
-  }
   .banner-text {
+    margin-right: 20px !important;
+  }
+  .pstyle {
     padding-right: 20px !important;
   }
 }
