@@ -583,6 +583,7 @@ figure.effect-Beauty:hover p {
 .about
 {
 	padding: 100px 0px;
+  padding-top: 130px !important;
 	border-bottom: 2px solid rgba(0, 0, 0, 0.1);
 }
 #nestoImg
@@ -620,6 +621,7 @@ figure.effect-Beauty:hover p {
 .artists
 {
 	padding: 100px 0px;
+  padding-top: 130px !important;
 }
 .quotes
 {
@@ -692,7 +694,7 @@ figure.effect-Beauty:hover p {
 	background-color: rgba(0,0,0,0.1);
 }
 .contact-top {
-	padding-top: 30px;
+	padding-top: 50px;
 }
 .info p
 {
