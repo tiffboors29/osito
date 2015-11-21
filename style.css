@@ -254,7 +254,7 @@ html, body {
 	background-color: rgba(0,0,0,0.1);
 }
 .service-top {
-	padding-top: 25px;
+	padding-top: 35px;
 }
 .services a {
 	color: #8F0100;
@@ -583,7 +583,7 @@ figure.effect-Beauty:hover p {
 .about
 {
 	padding: 100px 0px;
-  padding-top: 110px !important;
+  padding-top: 105px !important;
 	border-bottom: 2px solid rgba(0, 0, 0, 0.1);
 }
 #nestoImg
@@ -621,7 +621,7 @@ figure.effect-Beauty:hover p {
 .artists
 {
 	padding: 100px 0px;
-  padding-top: 110px !important;
+  padding-top: 105px !important;
 }
 .quotes
 {
