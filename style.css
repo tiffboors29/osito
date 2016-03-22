@@ -64,13 +64,23 @@ html, body {
   	min-width: 360px;
   }
   .pstyle {
-    padding-right: 30px !important;
+    /*padding-right: 30px !important;*/
+    margin-right: 30px !important;
   }
-  .arrow {
-    padding-right: 30px !important;
+  .arrow, .arrow:hover {
+    /*padding-right: 30px !important;*/
+    margin-right: 30px !important;
   }
+/*  .arrow:focus {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+  }*/
   .hostyle {
-    padding-right: 30px !important;
+    /*padding-right: 30px !important;*/
+    margin-right: 30px !important;
+  }
+  .services-byline {
+    font-size: 14px !important;
   }
 }
 .arrow
@@ -247,7 +257,7 @@ html, body {
 	background-color: rgba(0,0,0,0.1);
 }
 .service-top {
-	padding-top: 30px;
+	padding-top: 40px;
 }
 .services a {
 	color: #8F0100;
@@ -576,6 +586,7 @@ figure.effect-Beauty:hover p {
 .about
 {
 	padding: 100px 0px;
+  padding-top: 105px !important;
 	border-bottom: 2px solid rgba(0, 0, 0, 0.1);
 }
 #nestoImg
@@ -613,6 +624,7 @@ figure.effect-Beauty:hover p {
 .artists
 {
 	padding: 100px 0px;
+  padding-top: 105px !important;
 }
 .quotes
 {
@@ -685,7 +697,11 @@ figure.effect-Beauty:hover p {
 	background-color: rgba(0,0,0,0.1);
 }
 .contact-top {
+<<<<<<< HEAD
 	padding-top: 30px;
+=======
+	padding-top: 50px;
+>>>>>>> 9e0892bc1a13bc8ecc38eabec24487c3d24a7c5a
 }
 .info p
 {
