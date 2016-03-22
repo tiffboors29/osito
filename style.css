@@ -79,6 +79,9 @@ html, body {
     /*padding-right: 30px !important;*/
     margin-right: 30px !important;
   }
+  .services-byline {
+    font-size: 14px !important;
+  }
 }
 .arrow
 {
