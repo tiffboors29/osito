@@ -284,6 +284,19 @@ html, body {
 	float: right;
 }
 
+.fh-desc-artist{
+  /*width: 80%;*/
+}
+.fh-desc-artist p {
+  text-align: center;
+  color: #888;
+    /*font-family: "Source Sans Pro",sans-serif;*/
+    font-family: 'Cinzel';
+    font-size: 16px;
+    margin-top: 5px;
+  /*width: 90%;*/
+}
+
 .fh-desc h3
 {
 	margin: 0px !important;
@@ -781,6 +794,7 @@ margin-top: 20px;
 {
 text-align: center;
 }
+
 .btn-or
 {
 margin-top: 20px;
